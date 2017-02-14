@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TASCH</string>
+    <string name="catalog_list_title">Product catalog</string>
+    <string name="item_image_content_description">Product image</string>
+    <string name="wishlist_title">Your wish list</string>
+    <string name="product_not_found">Product not found</string>
+    <string name="cta_add_to_wishlist">Add to wish list</string>
+    <string name="cta_remove_from_wishlist">Remove from wish list</string>
+    <string name="total">Total $%1$d</string>
+    <string name="price">$%1$d</string>
+    <string name="warning_out_of_stock">Out of stock</string>
+    <string name="wish_list_footer_sub_total_label">Sub-total</string>
+    <string name="free_shipping_notice">Free shipping worldwide</string>
+    <string name="cta_checkout">Proceed to checkout</string>
+    <string name="label_rate_the_product">Rate the product</string>
+    <string name="label_colours">Colours</string>
+    <string name="label_size">Size</string>
+    <string name="confirmation_proceed_to_checkout">Are you sure you want to proceed to checkout?</string>
+</resources>

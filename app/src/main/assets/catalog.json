@@ -1,0 +1,42 @@
+[
+  {
+    "id": "carrier",
+    "name": "Carrier Bag",
+    "short_description": "Navy blue and Brown soft leather",
+    "description": "Our Mountain Briefcase is the ultimate shape changing, go to work, bum around town, travel the world, do it all every day carry",
+    "in_stock": true,
+    "price": 250,
+    "colours": [
+      "#232C3E",
+      "#A86244"
+    ],
+    "size": "H: 36cm/14\"\nW: 38cm/15\"\nD: 20cm/8\"",
+    "image_url": "briefcase.png"
+  },
+  {
+    "id": "urbanito",
+    "name": "Urbanito",
+    "short_description": "Biker basics",
+    "description": "This urban bag is pretty awesome. Comes in 3 neat colours. Cheap too. The strap goes on your shoulder.",
+    "in_stock": true,
+    "price": 75,
+    "colours": [
+      "#232C3E",
+      "#C8C500",
+      "#FBA010"
+    ],
+    "size": "One size fits all (34L)",
+    "image_url": "urban.png"
+  },
+  {
+    "id": "travol",
+    "name": "Travol",
+    "short_description": "Soft leather bag",
+    "description": "Another cool bag. Made of leather. Has a shoulder strap. Can contain various objects. Did we mention it is made of leather?",
+    "in_stock": false,
+    "price": 175,
+    "colours": [],
+    "size": "",
+    "image_url": "soft_leather_bag.png"
+  }
+]
